@@ -1,5 +1,6 @@
 # Raspberry Pi Oscilloscope
 
+NOTE : Forked from the original author.
 
 This project aims at developing a bare metal digital oscilloscope software tool that the uses Raspberry Pi bare metal environment [circle-stdlib](https://github.com/smuehlst/circle-stdlib) which is based on [circle](https://github.com/rsta2/circle).
 
